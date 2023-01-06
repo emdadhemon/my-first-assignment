@@ -167,11 +167,10 @@ section{
     padding-bottom: 33px;
 }
 .images{
-    /* width: 47px;
-    height: 46px; */
+    width: 47px;
+    height: 46px;
     margin-right: 17px;
 }
-
 .part2-title{
     font-weight: 600;
     font-size: 25px;
