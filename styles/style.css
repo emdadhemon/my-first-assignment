@@ -13,8 +13,6 @@ header{
     text-align: right;
     background-position: center;
     background-repeat: no-repeat;
-    background-color: #0a56a2;
-
 }
 .header-section{
     padding-right: 200px;
@@ -164,7 +162,7 @@ section{
 }
 .part1-number{
     color: #FFFFFF;
-    padding-bottom: 33px;
+    padding-bottom: 32px;
 }
 .images{
     width: 47px;
