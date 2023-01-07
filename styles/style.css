@@ -37,7 +37,7 @@ header{
     border-radius: 5px;
 }
 
-/* section 1 styles */
+/* my failure section styles */
 
 section{
     max-width: 1140px;
@@ -148,23 +148,20 @@ section{
 .bonus-desc{
     color: #737272;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 18px;
     text-align: center;
     padding-bottom: 50px;
 }
 .bonus-container{
     display: flex;
-    /* justify-content: space-between; */
     gap: 30px;
     text-align: center;
-    margin-bottom: 120px;
+    margin-bottom: 100px;
 }
 .bonus-items{
     box-shadow: 0px 0px 8px 8px grey;
-    padding-top: 23px;
-    padding-bottom: 23px;
-    background-color: #84c9e9;
-    /* border: 1px solid black; */
+    padding: 23px 15px;
+    background-color: #a1d3eb;
 }
 .bonus-container img{
     width: 60px;
@@ -190,6 +187,7 @@ section{
 
 
 /* footer part styles */
+
 
 .footer-container{
     background: #151414;
